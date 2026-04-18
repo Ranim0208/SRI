@@ -1,23 +1,29 @@
-# 🎯 Phase 1: Construction de la Collection de Test - Système de Recherche d'Information
+# Phase 1: Construction de la Collection de Test - Système de Recherche d'Information
 
-## 📌 Vue d'ensemble
+## Vue d'ensemble
 
 Ce projet implémente la **Phase 1** du projet SRI (Systèmes de Recherche d'Information) de l'ISAMM.
 
 **Thème**: Construction d'une collection de test (corpus de tweets + requêtes + jugements de pertinence) sur le thème **"Guerre en Iran"** en utilisant **Playwright** pour le web scraping.
 
 ---
-
-## 📦 Contenu du Package
+## Groupe
+    Maycem Ben Lagha 
+    Ryned Soua
+    Khouloud Hammadi
+    Mohamed El Mehdi Ben Taher
+    Ranim Ben Cheikh
+--- 
+## Contenu du Package
 
 ```
 phase1/
-├── phase1_collector.py          # 🎬 Script principal - Collecte de tweets
-├── phase1_validator.py          # ✅ Validateur de données
-├── phase1_converter.py          # 🔄 Convertisseur de formats
-├── GUIDE_PHASE1.md             # 📖 Guide complet d'utilisation
-├── requirements.txt             # 📦 Dépendances Python
-└── phase1_output/              # 📁 Dossier de sortie
+├── phase1_collector.py          # Script principal - Collecte de tweets
+├── phase1_validator.py          # Validateur de données
+├── phase1_converter.py          # Convertisseur de formats
+├── GUIDE_PHASE1.md             # Guide complet d'utilisation
+├── requirements.txt             # Dépendances Python
+└── phase1_output/              # Dossier de sortie
     ├── tweets.json             # Corpus de 500 tweets
     ├── topics.json             # 5 requêtes
     ├── qrels.txt              # Jugements de pertinence
@@ -26,7 +32,7 @@ phase1/
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1️⃣ Installation
 ```bash
@@ -132,7 +138,7 @@ create_export_bundle(input_dir, output_dir)
 
 ---
 
-## 📊 Statistiques Attendues
+## Statistiques Attendues
 
 | Métrique | Valeur |
 |----------|--------|
@@ -145,7 +151,7 @@ create_export_bundle(input_dir, output_dir)
 
 ---
 
-## 🎯 Requêtes Utilisées
+## Requêtes Utilisées
 
 | ID | Requête | Thème |
 |---|---------|-------|
