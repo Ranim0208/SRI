@@ -8,7 +8,7 @@ Ce projet implémente la **Phase 1** du projet SRI (Systèmes de Recherche d'Inf
 
 ---
 ## Groupe
--Maycem Ben Lagha 
+- Maycem Ben Lagha 
 - Ryned Soua
 - Khouloud Hammadi
 - Mohamed El Mehdi Ben Taher
