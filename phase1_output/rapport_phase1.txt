@@ -1,0 +1,25 @@
+============================================================
+RAPPORT DE PHASE 1 - CONSTRUCTION DE LA COLLECTION DE TEST
+============================================================
+
+THÈME: Guerre en Iran
+DATE: 2026-04-18 12:24:35
+
+STATISTIQUES:
+  - Nombre de requêtes: 5
+  - Total de tweets collectés: 500
+  - Tweets pertinents par requête: 30
+  - Total de jugements: 500
+
+REQUÊTES UTILISÉES:
+  MB01: regime change Iran (100 tweets)
+  MB02: regime collapse (100 tweets)
+  MB03: Closing Hormuz strait (100 tweets)
+  MB04: Intercepting missiles drones (100 tweets)
+  MB05: revolutionary guard Iran (100 tweets)
+
+FICHIERS GÉNÉRÉS:
+  - tweets.json: Corpus de tweets
+  - topics.json: Ensemble des requêtes
+  - qrels.txt: Jugements de pertinence (Qrels)
+  - rapport_phase1.txt: Ce rapport
