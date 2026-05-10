@@ -1,0 +1,18 @@
+# Phase 2 - Dépendances Python
+# Installez avec : pip install -r requirements_phase2.txt
+
+# PyTerrier (moteur de recherche)
+python-terrier==0.10.0
+
+# Traitement du langage naturel
+spacy==3.7.4
+
+# Manipulation de données
+pandas==2.2.2
+numpy==1.26.4
+
+# Visualisation (courbes R-P)
+matplotlib==3.9.0
+
+# Java (requis par PyTerrier - vérifier séparément)
+# → Installez Java 11+ : https://adoptium.net/
