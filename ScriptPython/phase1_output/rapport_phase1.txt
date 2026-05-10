@@ -1,0 +1,13 @@
+============================================================
+RAPPORT DE PHASE 1
+============================================================
+
+DATE: 2026-05-09 17:47:08
+
+Total tweets: 500
+
+  MB01: regime change Iran → 100 tweets
+  MB02: regime collapse → 100 tweets
+  MB03: Closing Hormuz strait → 100 tweets
+  MB04: Intercepting missiles drones → 100 tweets
+  MB05: revolutionary guard Iran → 100 tweets
