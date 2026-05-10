@@ -1,0 +1,4 @@
+venv_sri/
+__pycache__/
+*.pyc
+*.jar
